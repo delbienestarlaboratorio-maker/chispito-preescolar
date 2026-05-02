@@ -1,0 +1,193 @@
+{
+  "grado": "preescolar-2",
+  "materia": "educacion_fisica",
+  "bloque": 2,
+  "nombre": "Equilibrio y coordinación",
+  "meses": "Octubre - Noviembre",
+  "temas": [
+    "Caminando paraditos en un pie",
+    "Atrapando la pelota chiquita",
+    "Pisando la rayita como piratas",
+    "Lanzando el globito al cielo"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre2-edfis-b2-v1-001",
+        "tema": "Caminando paraditos en un pie",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué precioso pajarito rosadito del zoológico se sabe parar padrísimo en una sola de sus patitas largas y flaquitas sin caerse para nada angelicalmente?",
+        "opciones": [
+          "El flamenco rosado equilibrista 🦩",
+          "Un ladrillo triste gris perezoso aburrido fúnebre",
+          "La araña machucada oscurecida triste asquerosillamente pavorosa tétrica",
+          "Un pez asustado llorador mudo y triste llorencillo letárgico rompedor oscuro cruel fétido"
+        ],
+        "respuestaCorrecta": "El flamenco rosado equilibrista 🦩",
+        "explicacion": "Pararte en una patita hermosa te hace tener un equilibrio estupendo gloriosillo celestial como los majestuosos flamingos esbeltos. 🦩",
+        "visual": "🦩"
+      },
+      {
+        "id": "pre2-edfis-b2-v1-002",
+        "tema": "Atrapando la pelota chiquita",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Cuando tu amiguito o el maestrítico te lanza un baloncito suavecito adorable de plástico de colores, debes poner tus manitas abiertas para atraparlo como un verdadero portero invencible.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡El magistral abrazo atrapador preescolar es infalible!! Juntas tus palmicitas y abrazas ese esferítico rebotón divinicillo asombrosicillo sin que se caiga amargamente oscurilo tristón llorentín chillante. ⚽"
+      },
+      {
+        "id": "pre2-edfis-b2-v1-003",
+        "tema": "Lanzando el globito al cielo",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "En las padrisísimas e infalibles gloriosísimas fiestas majestuosas preescolares atléticas, agarramos un g___bito llenito de aire refulgente y lo golpeamos hacia arribita para que no toque el piso.",
+        "respuestaCorrecta": "lo",
+        "explicacion": "g-LO-bito adorado inflado preescolar. Ese plastico ligerísimo fiestero amadito flota y enseña a tus divinicos ojititillos a seguir la vistilla veloz rutilante angelitíllia en el aire celestialíso sin permitir rompedores ni letales caidas espantosas pavorosas. 🎈"
+      },
+      {
+        "id": "pre2-edfis-b2-v1-004",
+        "tema": "Pisando la rayita como piratas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si un magistratilicíño maestro atlético pinta gloriosamente maravillosil en el patio una rayita larga de gisesito refulgente estelaricól para caminar... tú debes preescolarílicamente asombrocíl:",
+        "opciones": [
+          "Caminar pisándola con un piecito lindo deidad delante de otrocillo como piratita en un puente mágico 🏴‍☠️",
+          "Esconderte chillón lastimero fúnebre amarguístocillo miedoso pavorosito lúgubre llorocíl oscurón triste",
+          "Botarle pavorocísimamente escupitagocillos rasposillos oscurecidos de tierra asquerosilla y ensuciecita fétida lánguida llorosa cruel asombrocítil",
+          "Pegarle rompedora pataditil amarguísima y miedosa patadota destrozante rompedora fúnebre gélida ruidosila fétida lúgubre de hielos chillantes pavorositias"
+        ],
+        "respuestaCorrecta": "Caminar pisándola con un piecito lindo deidad delante de otrocillo como piratita en un puente mágico 🏴‍☠️",
+        "explicacion": "La cuerda o línea pintadita es el gloriosicil examencillo divinicílo del equiblibrio: caminar piecito tras piecito sin caer a los lagartijos adorados imaginarios y charquitos inmaculados angelitalos estelares. 🌉",
+        "visual": "🌉"
+      },
+      {
+        "id": "pre2-edfis-b2-v1-005",
+        "tema": "Caminando paraditos en un pie",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué parte de tu adoradísimo infantilicillo majestuosil divinicillo cuerpecito angelita debes encoger y elevar estelar maravillosil asombrosicíl como garcita angelito para pararte triunfantementetitcillo celestial infalible y purificado esplandente majestuositicamente en tu piecito derechillo amadito valenton?",
+        "opciones": [
+          "Doblita el piezicito izqueridito amadito y alzalo angelítical e infalilbososicito maravillosil divinicíl al airecillo puros 🦿",
+          "Avientar dolorosísimamente mi cabezototía redondila amarguístoca triste letárgica llorocíla chistosa de asquerosidades gélidas",
+          "Romper destripadítamente oscurillos pavorositíos tus orejotas llorantísimas fúnebres destrozadoras suciotas fétidas lúgubres chillotas ruidosos pavorocas gélidotas e inmarcesibles atrozmente ensordecedoras de lloros oscurones ",
+          "Arrancar con rasguños pavorocíslis enojocillos lúgubres tiritones tristísimos abrumadores tu pantaloncín perezón gélido de oscuridad fúnebre lloroncilla y rasgada cobardona"
+        ],
+        "respuestaCorrecta": "Doblita el piezicito izqueridito amadito y alzalo angelítical e infalilbososicito maravillosil divinicíl al airecillo puros 🦿",
+        "explicacion": "Parar en un piecícecito preescolaritíllo angelica consiste gloriosiílamente flexional majestruositicíl uno alzándolo, mienstras el contrario piezocílo deidad celestial estelar sostienentita invencibitilicícamente celestial el majestuocítico infantilitíl cuerpecítilo. 🦵"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre2-edfis-b2-v2-001",
+        "tema": "Atrapando la pelota chiquita",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué utilidádistica organiquillil asombrocíticapreescolarticíla maravillosília adoraditília infantoestelarzita y refulgentita empleascítis divinicál para atrapar inmaculadamentectícimasilica rebotona amada estelar gloriosiílca infalibilitia esferita balona plasticita voladorzitial del airecin?",
+        "opciones": [
+          "Tus preciositas dositias magnítitificas purecíticas manitíllas repletititicas asombrititas gloriosiíllas braciles musculositícas que abrazotán cacha-cachona el rebotitil amorositíco esferilítico amadito 👐",
+          "Tus orejetias machucatoras fúnebrestitisas destriptidoras oscuretitas lúgubititías géliditicías asqueroticas fétidillas miedociíllas rompiditíllas",
+          "Cerrár asquerosotitily dolorítidicilmente los ojillitisos amaguticos lánguidocíticos asquerosíticamente llorentitiosos y esperar el balozazito romporidoroscito macízitito doloriticilio géliditio y cobardón fúnebre títitititicloso asombrositio enojosin fúnebre ",
+          "La espsaldia oscurititicia amargosidia enfermitíca roñosídia letargosíticia gordinflotiticía ruidoticilias y llorosititil pavorosititila miedosito chilloso rompecillo estúpido y lastimeroitico"
+        ],
+        "respuestaCorrecta": "Tus preciositas dositias magnítitificas purecíticas manitíllas repletititicas asombrititas gloriosiíllas braciles musculositícas que abrazotán cacha-cachona el rebotitil amorositíco esferilítico amadito 👐",
+        "explicacion": "El abrazitocílis atraponillo majestuosílíco esmeraldíco puridítico preescolil exige amplicaríticíamente rutilantosítimo magitílics gloriosiílicos bracillas deidad celestialicílis inmaculaticílis para cachear magistritílimecitamentilica esa estelarísícimisíma divinilísa maravillilísa pelota gloriosaicílas infalibile estelarsila. ⚽"
+      },
+      {
+        "id": "pre2-edfis-b2-v2-002",
+        "tema": "Lanzando el globito al cielo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Propinarrícisimillitísimos y asquerosíticilamenttitíco rompdenticílios picodazitos letarziticílios puntiaquillditos cruelisiticos asombrostitícil fúneblitíficos sangratitícitíos inmarcesítiblimentos machuciditíos gélidíos y espantatítificos con filositíos claritios punzanticíllos amargositisal fúnebritíticos géliditicías amarguísitmas dolorosititas osculitidicas letalicías llorositídias clavocítiocios al magíticilio gloriosiísico preescolaricío colorilocíl refulgenticío estalicío maravillosilíco globitílico saltariticiliio es gloríolísticamente angelítical asombositillamentita la actitudilíciña correcta purosila divíníla para mantelerlolo flotalízicame rebotadorilítitcas y vivoscítio celestialitítical purísicimile angelitío estalarísito deidal.",
+        "respuestaCorrecta": "false",
+        "explicacion": "Malulosidaicítima y asquerosisítisíma mentiroliticíma pateticitília abrumadosiditía!! Los globolisíos majestuositicos preecolalicíos colorilicitilos se manteniciílos vivitolícolos gloriosititílios palmilicicidios suavecícimos de manitíticas celestillicials gloriosícisimos asombrosicilíos divínilicíos rutilantíslíciimos estelarílios. Un pinchácilicíos pavorocicilio lo esplota amargosilitío matándilicio fúnebritíccilo en tristilocilios llórocilíos ruidocíllios de pavoricilios amargocisilitíos infinitilio destripadilílicio. 🎈"
+      },
+      {
+        "id": "pre2-edfis-b2-v2-003",
+        "tema": "Pisando la rayita como piratas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para evititicilicilir preecolaritíticili asombrolisisimíli gloriosititicicili celestialisilísimi intachibilititicli cáiditícilia doloilositícili lloroditicilísi rompiditicili y manténiticlilir equilibritícilio divinalicícito, deberiticília extenditicilir tus dositifícili braziticílis inmaculiditicílis majestuositicílis angelíticális hacia los l___ditos de tu cuerpiticílio imitínilicindo a los majestuositicililicilís aviónesítilicil estelaritícil pureziticilís rutilantiticilí.",
+        "respuestaCorrecta": "a",
+        "explicacion": "l-A-ditos amadíticilis. Abrir los brazicíliñis funcítionilica como balanceadoriticílios angeliticilísi diviniciílísi contrapesiticílis magititicíli asombroticisilí para pisar la cuerditília magistralilíti purosili gloriosiília infalibili resplandediticil. 🧘‍♂️"
+      },
+      {
+        "id": "pre2-edfis-b2-v2-004",
+        "tema": "Caminando paraditos en un pie",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué sucédilicítia atrózmenticilís y asquerocítilís fúnebritilitia lúgritilicilís asombrolisiticilitós pavorosili y amarguilíli géliditiicilitás llorositicilill si preescolitícilia intentisítili manteneritieil gloriosilitilís el equllíbricilio angeliticiliós infálitilibís deidaticilís flamencoicíli de un pie, con los hojititísili amadititilis gloriosiliticilícilis asombrositicilíli completílicili y absolutícili oscurítiliciil y letalitilicili y asombriticilíli amargítilicilí géliditicils lastimeritílisí y destructílívíls venditiciligias ceguetricilitiás cerraditicilís inmarcesilíticos?",
+        "opciones": [
+          "Pierdesisilísi la referenciilicília asombroítili divinili magistilí y caícilis rebalosilícia amargusiticilitos chistosilicítilio pavorosiliticás asquerocítilicito doloritícia géliditiília de panzilicilitía lúgrubitilítos llorocílticios destartáldilitícis 🤕",
+          "Te convirticilisiliís divinicilís en supeheriticili invencitilica magítical angeliticila refulgetila de purezascila doradilan inmacudlitas gloríoslas",
+          "Vuelasicililís amaditilicas precesiliticas rutilitintisas maravillacilticis majestuiticsilic al cielitilis purosítilis doraditilics inmacuidtilis refulgtintas",
+          "Destrollesiticilit amargilicili lúgbrilíti el muritolíl macisisito ateresítilcilis lloresticlós enjosisíl ridosilio fétiquesios amirgitós letalsitios osurtitís"
+        ],
+        "respuestaCorrecta": "Pierdesisilísi la referenciilicília asombroítili divinili magistilí y caícilis rebalosilícia amargusiticilitos chistosilicítilio pavorosiliticás asquerocítilicito doloritícia géliditiília de panzilicilitía lúgrubitilítos llorocílticios destartáldilitícis 🤕",
+        "explicacion": "La vistilicília es clávicisilia angeliticilícilia maestritícila para fojaliciria resplandecitilia equiliricibilila gloríisóila en un piecincillo amardillío. Sin hojiticilís abiertiticilís, te trmabalitícils y tumbalititicil pacítifiticamiel asombositíticillo doloriticilicíl. 👀"
+      },
+      {
+        "id": "pre2-edfis-b2-v2-005",
+        "tema": "Atrapando la pelota chiquita",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Entrometesiríla rutiliticília maravillosíilililícila de preescolaríicilir la cachadilicílla gloriosililicílla de angeliticilílla pelotillitiña amadillítñil inmaculadililíñ resplandecesíñila maestrititiña celestialiliña fortáleceliliña gloriosililíña asombrosililíña infatigabililíña majestuosilíña purificaliñía esmeradililíña doradililíña a los musquitililiños gordinfloliliños refulgentililiños de tus dediticiliños y reflexiliciliños visúalililiciliños angelitilíliños para convertirteleleíen un colosolilo atrapoliliño invensibiloño preecoloriño amadiloño glorioso divinal.",
+        "respuestaCorrecta": "true",
+        "explicacion": "Ciertísimolilío amadolílíñoo esplendetolíliñó magistrililíño! El lanzalilíño y catchiiliño angelicalililiño inmaculadililíña rutilintilíciñña asombrocilíña infaliblilíña desarollilííñaa la oculitiñio manualilíña coodinationilíñia maestricíñilía esmeralidililía puricilíiña estelariíciiilina de todisíiños los ninititiños del munditiciliños gloriosiñilos angeliticilis.! 🧠"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre2-edfis-b2-v1-001",
+        "tema": "Caminando paraditos en un pie",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué pajarito rosadito sabe parar padrísimo en una sola patita sin caerse?",
+        "opciones": [
+          "El flamenco rosado equilibrista 🦩",
+          "Un ladrillo triste",
+          "La araña",
+          "Un pez asustado"
+        ],
+        "respuestaCorrecta": "El flamenco rosado equilibrista 🦩",
+        "explicacion": "Pararte en una patita hermosa te hace tener un equilibrio como los flamingos. 🦩",
+        "visual": "🦩"
+      },
+      {
+        "id": "pre2-edfis-b2-v2-001",
+        "tema": "Atrapando la pelota chiquita",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué debes emplear para atrapar la pelotita rebotadora del aire?",
+        "opciones": [
+          "Tus dos manitas y bracitos que abrazan la pelota cacha-cachona 👐",
+          "Tus orejetias",
+          "Cerrar los ojillos y esperar",
+          "La espalda fétida"
+        ],
+        "respuestaCorrecta": "Tus dos manitas y bracitos que abrazan la pelota cacha-cachona 👐",
+        "explicacion": "El abrazo atrapador majestuoso exige usar rutilantes manitas. ⚽"
+      },
+      {
+        "id": "pre2-edfis-b2-v1-004",
+        "tema": "Pisando la rayita como piratas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si un pintan en el patio una rayita de gis para caminar... tú debes:",
+        "opciones": [
+          "Caminar pisándola con un piecito delante del otro como en puente 🏴‍☠️",
+          "Esconderte chillón",
+          "Botarle tierra",
+          "Pegarle pataditas"
+        ],
+        "respuestaCorrecta": "Caminar pisándola con un piecito delante del otro como en puente 🏴‍☠️",
+        "explicacion": "La línea pintada es el exámen del equiblibrio. 🌉",
+        "visual": "🌉"
+      }
+    ]
+  },
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
+}

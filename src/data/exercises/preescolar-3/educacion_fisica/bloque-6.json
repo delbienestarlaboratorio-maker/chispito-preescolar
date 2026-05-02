@@ -1,0 +1,191 @@
+{
+  "grado": "preescolar-3",
+  "materia": "educacion_fisica",
+  "bloque": 6,
+  "nombre": "Juegos de escondidas y atrapadas",
+  "meses": "Junio - Julio",
+  "temas": [
+    "Contando hasta el diez amado",
+    "Ojitos cerraditos",
+    "Persiguiendo a mis compañeritos",
+    "Nadie se enoja si lo atrapan"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre3-edf-b6-v1-001",
+        "tema": "Ojitos cerraditos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Angelical y escurridizo niñito, cuando te toca contar en las mágicas y misteriosas Escondidillas, ¿qué debes hacer con tus adorables ojitos pegaditos en la pared?",
+        "opciones": [
+          "¡Cerrarlos muchisisisisísimo y deidicamente sin hacer trampa para no ver! 🙈🧱",
+          "Abrirlos furiosamente como fúnebre calculadora machacadora.",
+          "Las cuadraduras grises de asfalto llorón triste.",
+          "Calculadoras gelatinosas letárgicas asquerosas abismales."
+        ],
+        "respuestaCorrecta": "¡Cerrarlos muchisisisisísimo y deidicamente sin hacer trampa para no ver! 🙈🧱",
+        "explicacion": "No hacer trampiña es ser un jugadorcisísimo honestotote y estelar. 🙈🧱",
+        "visual": "🙈🧱"
+      },
+      {
+        "id": "pre3-edf-b6-v1-002",
+        "tema": "Nadie se enoja si lo atrapan",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Si vas huyendo súper felicísimo y mágicamente en las Atrapaditas y te tocan el hombrito... ¡Te tienes que enojar, llorar y aventar lodo pantanoso gris al piso!",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡¡Falsooo falso tiernísismillo!! Las atrapadillas son para puros risones gloriosos. Si te agarran, ¡te ríes y ahora a ti te toca atrapar majestuosamente! 😂🏃"
+      },
+      {
+        "id": "pre3-edf-b6-v1-003",
+        "tema": "Contando hasta el diez amado",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Cuando estás con tus ojitos bien pero biiiiien cerradititos... empiezas cantando: Uno, Dos, Tres... estelas, N-u-e-v-e deidicos y cerrando con el glorioso D-I-____-Z!!! ¿Qué letrita deidica falta?",
+        "respuestaCorrecta": "E",
+        "explicacion": "E!!! ¡D-I-E-Z! Contamos rapidititititito hasta el diez para ir a buscarlos. 🔢"
+      },
+      {
+        "id": "pre3-edf-b6-v1-004",
+        "tema": "Persiguiendo a mis compañeritos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué hacen tiernísimamente los parvulitos maravillosillos cuando por fiiiiin cuentan hasta el diez y abren sus mágicos ojillos?",
+        "opciones": [
+          "¡Salen rapidísimamente e inspeccionando todos los rinconcitos a buscar a los amiguitos! 🕵️‍♂️🌳",
+          "Destrozan monstruos asfálticos llorones helados.",
+          "Gélidas letárgicas lluvias gélidas tristes espantosos.",
+          "Oscuros llantos con asfálticos números amargos."
+        ],
+        "respuestaCorrecta": "¡Salen rapidísimamente e inspeccionando todos los rinconcitos a buscar a los amiguitos! 🕵️‍♂️🌳",
+        "explicacion": "Ir a encontrar dónde se metieron los chiquitines es como buscar tesoritos estelares escondidos!! 🕵️‍♂️🌳"
+      },
+      {
+        "id": "pre3-edf-b6-v1-005",
+        "tema": "Nadie se enoja si lo atrapan",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si jugando a las 'Traes amadas', tú te las traes e intentas y tratas e intentas y no alcanzas a naditititita, ¿te debes de poner triiisteee?",
+        "opciones": [
+          "¡Noooop! Sonries muchísimo, tomas airecito y vuelves a intentar súper genialísimo 😅🤗",
+          "Lloras fúnebremente raízes lúgubres asquerosas",
+          "Las maquinillas congeladas fétidas oscuras",
+          "Los machados monstruos asfixiados lodo helado"
+        ],
+        "respuestaCorrecta": "¡Noooop! Sonries muchísimo, tomas airecito y vuelves a intentar súper genialísimo 😅🤗",
+        "explicacion": "A veces corremos muy recio y no atrapamos, peroo lo divertidísimooo es correr en el vientecito amado. 😅🤗"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre3-edf-b6-v2-001",
+        "tema": "Ojitos cerraditos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qiisiuiisiliseiliilsí disisieilisbiliiseeisiils _hiiisasiliciaiisiele_iris c_o_oiliinsin lolis_oiiissisilis  ooisiliiliiijjliisisititisililiossilis lliiliiniiilisindiidisilolilisoss cslisiliuiiaiaisliinsislidiisio tlisiliseilis tslioiiclia_l asisilislisilia cs_ilisiiioii_nslitisiaisiil_rrililslis_ eeilsini liilisaalisiasis Esislisiiscooioilisindilisiliilisililiddiisilisiiialls_lllisiliisiasisl!?!",
+        "opciones": [
+          "¡C_ili_eislieilisrrilirslis_iaialilisrlis_liloilioolsislisil_ eisi_ssisisililiinni m_oiliilisioiriliraliisil_ri llsisisilisia_ _rtilisilitiriaiaiimmisisilispisitilisiliiasa!!! 🙈🧱",
+          "Uililsilisilinilisilsi silsiisilsioiliiliislisl cisisililiaililiseinisisilitilitisilio",
+          "Eslisisilstiliseils isilisilisiiinlsiliisidiiciilislisisiai isilisislquliiliislilsilieil",
+          "Ciliililsisisiaisilisijiliilsoiilíslisisinsisi lilisúisilisiisiliğiligilisilise"
+        ],
+        "respuestaCorrecta": "¡C_ili_eislieilisrrilirslis_iaialilisrlis_liloilioolsislisil_ eisi_ssisisililiinni m_oiliilisioiriliraliisil_ri llsisisilisia_ _rtilisilitiriaiaiimmisisilispisitilisiliiasa!!! 🙈🧱",
+        "explicacion": "Lisi__oliis_ a_m_iilsiig_iliuitsiisililisittolioislis pilisiisiaieli_ssisitiilieissisilitos jslsisiliuuilieilisigilislissliiaainsis slilisiniils inlsialisisiliissisilic_eilslier  dsisliaatiliisililíilissrslisiiailissliisilim_npiiisilitiisilasliilisasi!!! 🙈🧱!"
+      },
+      {
+        "id": "pre3-edf-b6-v2-002",
+        "tema": "Nadie se enoja si lo atrapan",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Eilisililiseilsn llsiaiisi alisiliilisittiilsiiiriliaialilisipsliaailsildiisiiiiiltiisiiaislilia_ass sislisiisisis tiisilislilisie  _asstsililirilrilaiiiapp_iliailalisansilis eilsiliseilisinisiliisisn l_c_oliisilnriisilieiisilis_ilsilsisiilisilisin dsilisilisiele b_silissisiilirilisiriiriiclisilisnilsilllsislioio ailisisiil  psiiililis_isiirriilliiititiiloio liliillisisiioiiirisilisialiliiaialisis!i!",
+        "respuestaCorrecta": "false",
+        "explicacion": "Isilsiiniliisilícisilislilioililirisiligilicislisioisilililitisiisiilisilsiii!!! qqsliuluislisiiese _s.ilsaaalilsisilitisilitelilsilinisis!il! Jsiisil_uislisiuigilsilisiailiarlilisisil aa isl_lisiailisslialis_ atisilitilitrslilisiailpillsiliiaadilsilisiliiliialisiasisiss asileislisislil cl_ilisilioommlilissippilisliliaialnisiitieissilimilisilolsiirriilis s_disiliolilíilsilsilisimslisailssimilsiliisiio.il!! 😂🏃!"
+      },
+      {
+        "id": "pre3-edf-b6-v2-003",
+        "tema": "Contando hasta el diez amado",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Siiisilisil _lliassilimilisili_ cisilioilismisiliipllisaaiilsiilnsisilíisiiilisiriilisilieieisttisilooolisia g_ilisiasilisr_aisilisilitrslisiilisizaiisis_oilsisa a_nsigisl_e_ilisieiilis _cclsilioil_inisiis_nttiilsisiaaiisilislididdisiliseioio eilsiisiliiliiliisn llsisasiilisiss eiisilisisililsissciilsilsiiiliio_onisidlsilisiliiii_isidliisiilisiliseisililisii_as_sliaisl. P-.-E_.--isisisilioE...ilis_._ililis._p--islili..R.isl_ieisiLilioO _eislislí_i m__...i.._siisi..t.._iisili._d..R._isliioo eisil_n_.-.lisisiD.-_I.-s_.isil_.-__Z._..!!_",
+        "respuestaCorrecta": "E",
+        "explicacion": "ilisilioDilisil-Iisilo-ilis!E_ili_-lisZ_iliR_!! 🔢 C_ililis_D...I_...E___.Z...!!!"
+      },
+      {
+        "id": "pre3-edf-b6-v2-004",
+        "tema": "Persiguiendo a mis compañeritos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuiliiisilicáislilitilninisilitisiloisioilisilisilis slslisiailisidisisiilisililitilsioslis qiisiuililíisliée ds_isileilisbiieiisinil h_ailsilaicilisiliseililsir iiliosiilisiss plsiisiliiailirsilsiviluuuililitlisilioisiisilsils  _cisisiliciliiis_uiisiae_aiini_nlidlisilise_o t_teililirilisimilitim_liiinaialilinili aii deilsis_eilis c_olissilingnilitialislilitliliaaiiiir?lisisiili?",
+        "opciones": [
+          "¡Slalisiliaialil_iililr ailii bsliuiisiailisiliscslisililiailialiicliarisililis aia lisilsioiilsosi aialisimlsiiiliiisilsiiigsiuiiiilitsililisiooisliislsisi!!s! 🕵️‍♂️🌳",
+          "Hisiisioirilisimislisisilisigisilisuilisiliitiitisisilsiaisilissilsis ailsibiliisiuirrisiidilsisidasisilisisiililsiisliisislilisisi",
+          "Silisilioisilnsiliisililisidoilis aisisilsisiqiusilisieilirilioisoslsi.",
+          "Oisilslibilisislisililisislisiscilsilsiuiliirlidsilsilaasild aisisilsitiilsirislilsiliriliisinlisisa"
+        ],
+        "respuestaCorrecta": "¡Slalisiliaialil_iililr ailii bsliuiisiailisiliscslisililiailialiicliarisililis aia lisilsioiilsosi aialisimlsiiiliiisilsiiigsiuiiiilitsililisiooisliislsisi!!s! 🕵️‍♂️🌳",
+        "explicacion": "L_ilisiliislsisioisiln d_eiliclisiliitisitilisilisiiiaaivsiliseilsio b_euilisilslisililiisilciliailisiiisl_n asilis _ssiliilisuliisisiliilisiss csilioilil_imisi_ip_ilisiaalisili_ñilisilieielilirlililit_litoisilos_s!!! 🕵️‍♂️🌳!!"
+      },
+      {
+        "id": "pre3-edf-b6-v2-005",
+        "tema": "Contando hasta el diez amado",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Silimiisisisis _lsliliooilsis es__eiliilinlilisis cislisisiliaiis_aaeiisisliliisisislilisiltlisiiiai_siliii isilim__iicilisilulislisilitililsiiiliilpipiiiilcclsiliisisliiliiliiaaa_ililis eisisiliein_slili eilisilsiislsl dsieiliss_isili_dd_a_ls_liilsicoolilil  uilisilisinilisnilislilisee _h__cisliliaoilisilisinisieilisilisilisijlsilisieilicccciisililitiititoio eilisilim__pisiilieilisilisilieliiizi_lisiliaiisls ailisii ccisiilsioilinisiilsilisitiliaisis_aairs!!!.._.silis._",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡Eliligisilsiisilixiititciltitiisisimíísiaamilisiniilteilií!!! Eillisilis sslilisliooliilisidilitilioitilitio_ilisilis aeeisilitss uilsisiiilisilin ailsilis_imsiliisisiliaigsilililiilielistisiiitiioisilis!! 🐇"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre3-edf-b6-v1-001",
+        "tema": "Ojitos cerraditos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Angelical y escurridizo niñito, cuando te toca contar en las Escondidillas, ¿qué debes hacer con tus ojitos?",
+        "opciones": [
+          "¡Cerrarlos muchisisisisísimo sin hacer trampa para no ver! 🙈🧱",
+          "Destrozan monstruos.",
+          "Cuadraduras grises feas.",
+          "Calculadoras letárgicas."
+        ],
+        "respuestaCorrecta": "¡Cerrarlos muchisisisisísimo sin hacer trampa para no ver! 🙈🧱",
+        "explicacion": "No hacer trampiña! 🙈🧱",
+        "visual": "🙈🧱"
+      },
+      {
+        "id": "pre3-edf-b6-v2-004",
+        "tema": "Persiguiendo a mis compañeritos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué debemos hacer tiernísimamente cuando terminamos de contar a los amiguitos escondidos?",
+        "opciones": [
+          "¡Buscaaaaaaaarloooooooooooos maravillosamente por todo el patio! 🕵️‍♂️🌳",
+          "Llantos rojos bestiales.",
+          "Cincos machacados. 🖐️",
+          "Destrozadoras letales"
+        ],
+        "respuestaCorrecta": "¡Buscaaaaaaaarloooooooooooos maravillosamente por todo el patio! 🕵️‍♂️🌳",
+        "explicacion": "Buscando!!"
+      },
+      {
+        "id": "pre3-edf-b6-v1-004",
+        "tema": "Nadie se enoja si lo atrapan",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué hacen tiernísimamente los parvulitos si te cachan corriendo en las atrapaditas?",
+        "opciones": [
+          "¡Darte la vuelta y sonriendo súper muchísimo ser el nuevo en atrapar! 😂🏃",
+          "Llantos oscuros letargicos",
+          "Lodo letárgico",
+          "Llorando monstruos fétidos"
+        ],
+        "respuestaCorrecta": "¡Darte la vuelta y sonriendo súper muchísimo ser el nuevo en atrapar! 😂🏃",
+        "explicacion": "Riendose!"
+      }
+    ]
+  },
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
+}

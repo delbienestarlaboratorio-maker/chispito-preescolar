@@ -1,0 +1,187 @@
+{
+  "grado": "preescolar-2",
+  "materia": "artes",
+  "bloque": 1,
+  "nombre": "Magia con los colores y crayolas",
+  "meses": "Agosto - Septiembre",
+  "temas": [
+    "Los colores primarios",
+    "Pintando formas",
+    "Mezclas mágicas de pintura",
+    "Mi crayola"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre2-art-b1-v1-001",
+        "tema": "Los colores primarios",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿De qué color es la manzana riquísima y el corazón del amor?",
+        "opciones": [
+          "Color Rojo ❤️",
+          "Color Gris oscuro",
+          "Color Café triste",
+          "Transparente sin color"
+        ],
+        "respuestaCorrecta": "Color Rojo ❤️",
+        "explicacion": "El Rojo es el color divino de la fresita rica y el amor. 🍎",
+        "visual": "🍎"
+      },
+      {
+        "id": "pre2-art-b1-v1-002",
+        "tema": "Los colores primarios",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué brillante color tiene el solecito que nos calienta en el día?",
+        "opciones": [
+          "Amarillo ☀️",
+          "Negro asustador",
+          "Gris lluvia",
+          "Morado oscuro"
+        ],
+        "respuestaCorrecta": "Amarillo ☀️",
+        "explicacion": "El Amarillo es el color de la luz estrellada y del solecito hermoso. 🌟",
+        "visual": "🌟"
+      },
+      {
+        "id": "pre2-art-b1-v1-003",
+        "tema": "Mezclas mágicas de pintura",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Si unimos la pintura roja con la pintura amarilla, aparecerá el mágico color Anaranj___odo.",
+        "respuestaCorrecta": "ad",
+        "explicacion": "Anaranj-AD-o! El rojo y amarillo crean la bella mandarina. 🍊"
+      },
+      {
+        "id": "pre2-art-b1-v1-004",
+        "tema": "Pintando formas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Un artista genial pinta rayando los muebles y la pared de su mamá.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Jamás! Los niños artistas pintan hermoso en sus hojitas de papel. 🖌️"
+      },
+      {
+        "id": "pre2-art-b1-v1-005",
+        "tema": "Mi crayola",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Con qué barrita de cera gordita y mágica coloreamos sin ensuciarnos las manitas?",
+        "opciones": [
+          "Con mi mágica Crayola 🖍️",
+          "Con una estufa caliente",
+          "Con una piedra mojada",
+          "Con lodo del patio"
+        ],
+        "respuestaCorrecta": "Con mi mágica Crayola 🖍️",
+        "explicacion": "¡La crayola de cera es tu varita mágica preescolar para hacer dibujos hermosos! 🖍️",
+        "visual": "🖍️"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre2-art-b1-v2-001",
+        "tema": "Los colores primarios",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuáles son los 3 colores papás (Colores Primarios) que al mezclarse crean a todos los demás?",
+        "opciones": [
+          "Rojo, Azul y Amarillo 🎨",
+          "Negro, Blanco y Gris",
+          "Lodo, Café y Tierra",
+          "Misterioso, Transparente y Agua"
+        ],
+        "respuestaCorrecta": "Rojo, Azul y Amarillo 🎨",
+        "explicacion": "¡Estos 3 colores mágicos son los invencibles colores que pintan el mundo amado! 🌈"
+      },
+      {
+        "id": "pre2-art-b1-v2-002",
+        "tema": "Mezclas mágicas de pintura",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La técnica angelical para pintar bonito es meter toda la mano al bote de pintura derramada y salpicar la mesa.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Súper Falso! Derramar y ensuciar gasta tu pintura rutilante. Se usa un dedito o tu pincel con mucho cuidado precioso. 🧼"
+      },
+      {
+        "id": "pre2-art-b1-v2-003",
+        "tema": "Pintando formas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Tener cuidado de no salirte ni rayar chueco fuera de la rayita del dibujo es hacerlo respetando el c___ntornillo.",
+        "respuestaCorrecta": "o",
+        "explicacion": "cO-ntornillo: El marco mágico que encierra el colorin divino para no manchar el exterior y dejarlo impoluto. 🦁"
+      },
+      {
+        "id": "pre2-art-b1-v2-004",
+        "tema": "Mi crayola",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Después de colorear y ser un maestro del dibujo... ¿qué se hace heroicamente con las botellitas de pintura y crayolas?",
+        "opciones": [
+          "Se limpian y acomodan gloriosamente en su cajita y repisa adorada 🧽",
+          "Se tiran rotas al suelo furiosamente con patas de león",
+          "Se guardan destapadas goteando todo oscuro y sucio el tapete mágico",
+          "Se apilan tristes abandonadas y pisadas arrugadas"
+        ],
+        "respuestaCorrecta": "Se limpian y acomodan gloriosamente en su cajita y repisa adorada 🧽",
+        "explicacion": "Ordenarcito pulcro del campito creador preescolar te hace el rey y la reina de las artes divinas estelares bondadosas! 🧹"
+      },
+      {
+        "id": "pre2-art-b1-v2-005",
+        "tema": "Mezclas mágicas de pintura",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Si mezclas un poquito de rojo amoroso y mucho blanco nevado, creas el mágico color Rosa.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡El angelito color rosa de un tierno cerdito!! 🐷"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre2-art-b1-v1-001",
+        "tema": "Los colores primarios",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿De qué color es el tomate o la capa voladora de los superhéroes?",
+        "opciones": [
+          "Color Rojito brillante ❤️",
+          "Azul marino",
+          "Amarillo machacado",
+          "Transparente que no brilla"
+        ],
+        "respuestaCorrecta": "Color Rojito brillante ❤️",
+        "explicacion": "El Rojo es el color de la fresita rica y los corazoncitos! 🍎",
+        "visual": "🍎"
+      },
+      {
+        "id": "pre2-art-b1-v2-001",
+        "tema": "Los colores primarios",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuáles son los colores primarios o colores papás?",
+        "opciones": [
+          "Rojo, Amarillo y Azul 🎨",
+          "Café, gris oscuro",
+          "Transparente",
+          "Blancuzco y pálido"
+        ],
+        "respuestaCorrecta": "Rojo, Amarillo y Azul 🎨",
+        "explicacion": "Rojo, azul y amarillo son los colores mágicos reyes. 🌈"
+      },
+      {
+        "id": "pre2-art-b1-v1-004",
+        "tema": "Pintando formas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Un artista genial pinta rayando la pared de su mamá.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡¡Jamás!! Los verdaderos artistas pintan en sus hojitas. 🖌️"
+      }
+    ]
+  },
+  "generado": "2026-04-27T12:15:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
+}

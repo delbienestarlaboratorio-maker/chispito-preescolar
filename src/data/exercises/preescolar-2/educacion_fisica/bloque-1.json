@@ -1,0 +1,193 @@
+{
+  "grado": "preescolar-2",
+  "materia": "educacion_fisica",
+  "bloque": 1,
+  "nombre": "A mover todo el cuerpecito",
+  "meses": "Agosto - Septiembre",
+  "temas": [
+    "Saltando altísimo como ranitas",
+    "Estirando bracitos como gigantes",
+    "Gateando y rodando rico",
+    "Calentamiento sin empujones"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre2-edfis-b1-v1-001",
+        "tema": "Saltando altísimo como ranitas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué divertidísimo animalito verde y saltarín imitamos grandote y padrísimo cuando nos agachamos hasta el piso tocando la tierrita y luego pegamos un brinco asombroso infalible esplendente hasta el cielo?",
+        "opciones": [
+          "Una ranita charquera brincadora verde adorada esmeralda estelar 🐸",
+          "Una piedrota fúnebre triste gris aterrante oscura pavorosilla",
+          "Un pez nadador de aguas dormidas somnolientas oscurecido gélido lúgubre",
+          "Una serpiente acostada miedocilla lastimero arrastrada en charcos fétidos asombrocitos tristes letales"
+        ],
+        "respuestaCorrecta": "Una ranita charquera brincadora verde adorada esmeralda estelar 🐸",
+        "explicacion": "Los preescolarcitos son maestros gloriosillos asombrosos del salto de ranita: agachar rodillitas preescolares adoraditas y despegar como cohetes verdes. 🐸",
+        "visual": "🐸"
+      },
+      {
+        "id": "pre2-edfis-b1-v1-002",
+        "tema": "Calentamiento sin empujones",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Cuando empezamos la padrisísima clase con el maestro divino de deportes, es necesario hacer estiramientitos suavecitos de huesitos angelicales, pero jamás empujar groseramente a los amiguitos llorosos lastimeros oscuros.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡Exactisimoteee amado resplandecedor!! El calentamiento es para preparar al puro heroico angelical cuerpecillo, nunca para atropellar llorocitos inmarcesibles a los compañeritos pulquérrimos divinos preescolares amados. 🤸‍♂️"
+      },
+      {
+        "id": "pre2-edfis-b1-v1-003",
+        "tema": "Estirando bracitos como gigantes",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Tener tus bracitos preciosos elevaditos al cielo tocando las nubecitas resplandecientes adoradillas celestialísimamente te hace altísimo mágico como un fuerte G___gante.",
+        "respuestaCorrecta": "i",
+        "explicacion": "G-I-gante: Estirarse gloriositamente y refulgentícimo hasta el infinito asombrosillo te quita la perecita divinal estelaricíl y te da fuerzita pavorocil preescolarcita positiva. 🧍‍♂️"
+      },
+      {
+        "id": "pre2-edfis-b1-v1-004",
+        "tema": "Gateando y rodando rico",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si te acuestas en el tapetito lúdicítil suavecito y pones los bracitos pagaditos a tu cuerpecillo angelical intocable, para luego dar vueltas y vueltas como salchichita... estás gloriosamente:",
+        "opciones": [
+          "Rodando o girando maravillosamente en el piscito adoradito como tronquito estelar 🪵",
+          "Congelado pavorosito aburrido somnoliente lúgubre llorocillo espantósamente llorente",
+          "Parado lánguido marchito triste de fúnebres destrozadores suspiros aburridos e inexplorados",
+          "Llorente ruidositamente y chillando oscuro miedosito de aterradores castigos gélidos invernales ruidosos"
+        ],
+        "respuestaCorrecta": "Rodando o girando maravillosamente en el piscito adoradito como tronquito estelar 🪵",
+        "explicacion": "¡¡El juego esplendente preescolarcillo del tronquito rodador es magia angelical rutilante de vueltas mareadoras lúdcas y reír sin cesares grandilocuentes!! 🪵",
+        "visual": "🪵"
+      },
+      {
+        "id": "pre2-edfis-b1-v1-005",
+        "tema": "Saltando altísimo como ranitas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Para saltar altísimo a la lunita, o brincar las cuerdas del patiecito divino angelical infalible preescolar, debes maravillosamente divinillo tener en tus patitas:",
+        "opciones": [
+          "Unos lindos y padrísimos teniskis o zapatitos cerraditos de deporte resplandecederos saltarines 👟",
+          "Pies descalzucillos suciotes en el pedrerudo pavorositico asfalto destructivo lastimero gélido ruidosin aterrante lloroso fúnebre",
+          "Chanclas lloradoras zafonas lánguidas tristes rompibles aterrillas resbalocitas machucadoras destructores sucias",
+          "Botas pesadotas de hierro ruidosas fúnebres de monstruillitos oscuros tristes pesados rocosos destartalados machucadores fétidos lúgubres "
+        ],
+        "respuestaCorrecta": "Unos lindos y padrísimos teniskis o zapatitos cerraditos de deporte resplandecederos saltarines 👟",
+        "explicacion": "Los tenis o calcetines cómodos (siel piso es acolchadito) son los escuditos preescolares amadísimos para tus pececitos piecitos saltarines y resplandeceditos purificados estelares. 👟"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre2-edfis-b1-v2-001",
+        "tema": "Calentamiento sin empujones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué imperativísimamente pavorositico asquerosillo abrumador destrozador fúnebre lloroncito triste lastimero oscuro gélido rompedor letárgicíto no debes jamás de los asombrocitos jamases cometer angelitillamente asombrocil cuando trotas presurosomamente rutilante dando vueltecillas eufóricas lúdicítiles infantiles preciosillas calientitas al rededorocito del colosal patiecillejo grandilocuente de deportes estelar?",
+        "opciones": [
+          "Dar empujonzotes atropelladores machucantes fúnebres destructilleros al amiguillo tiernillo compañerero divino que corre eufóriciamente a tú ladicíto inmaculadito deidad preescolarícil pacífico 🚫",
+          "Respirar rutilantemente airecitillo divinizó puro limpísimo ramillete oxigenatitívicil infalible esplendente maravillosítcio asombrocillo",
+          "Sonreír amigablemente doradillo majestuosíticamente estelar felicecíto angelical inmaculadito",
+          "Mover bracitos aletitas asombrocitas en flexiones divinísimas estelarisímas inmaculabilíllas purificadítimas gloriositítitcamenen asombrositisímas"
+        ],
+        "respuestaCorrecta": "Dar empujonzotes atropelladores machucantes fúnebres destructilleros al amiguillo tiernillo compañerero divino que corre eufóriciamente a tú ladicíto inmaculadito deidad preescolarícil pacífico 🚫",
+        "explicacion": "La reglilla deidad máxima de orocillo en patiecillos deportivos preescolares esplendetitísimos es infaliblemnetetítima majestuosilíña puricísima resarcitora pacífica: el respeto inmanente colosal angelítical y cuidar deidad de lastimar dolorosamíntica gélidos rasponzillos a ningún campeonzillo runner niñitito amadito divino!! 🚸"
+      },
+      {
+        "id": "pre2-edfis-b1-v2-002",
+        "tema": "Estirando bracitos como gigantes",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Elevar maestríllamente divinidicítima celestial los bracitos inmaculadilíllos purificadícos intocabílishimos intentandititamente rutilando alcanzar majestuosa gloriosiísíticamente las divinales escurrudizas nuebecíllas maravillosillas del cielitito, fortaleces maravillosilicíte tus musqulitos gordinflonitíllos esplendetitos infantiles estelares angelicalillos protegiéndolos asombrosiĺlo de lesionosillas tristes fúnebres destructilleras llorositías somnolentiticas letargodíticas oscurosas.",
+        "respuestaCorrecta": "true",
+        "explicacion": "El gloriososilicísimo estironguito mañanero angelil asombrocitio despertador divinil purifica angelitiliticamente tus rutilantísimos huesecillos majestuosilísimos de preescolarillititi campeón preparánditititete infalibilíticama invencitilica para colosales victorias lúdicillalísticas fiesterosas saltariniticias. 🤸‍♀️"
+      },
+      {
+        "id": "pre2-edfis-b1-v2-003",
+        "tema": "Gateando y rodando rico",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Si pones tus gorditas adorabilísimas preescolarsitías rodililitas inmaculadas angelilíticas mimosillas purecíticas celestielas resplandecedititísimas en contactillo maravillil y amado infalibiloso con el acolchadititio gloriosítitismo colosil tapetito, e impulasitas con manititas rutilantíisimiñas esplendetificas tu avanzar infatigabilícima tierno mágico como tortuguilla exploradorzitilia, te desplazas magistrol g___teanditillitito inmaculadítimente divino puro adoradito.",
+        "respuestaCorrecta": "a",
+        "explicacion": "g-A-teando rutilantísimo como perritito o gatillito exploratorio gloriosiíl. Este mágico deslizamiento gateadorcito angelical inmaculadito favorecititísimo angelitilicálmente la coordinantísima divinadisa motoriza lúdica celestialitísa infantil esplendentificasa. 👶"
+      },
+      {
+        "id": "pre2-edfis-b1-v2-004",
+        "tema": "Saltando altísimo como ranitas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Si un magistratilicíño asombromocito infálbile amado divinitío estelarcítico angelílico infanto preescolaricíño maestril intocabilísímo refulgentíto desea saltarítcamente maravillosísimo deidad grandilocuención rebotadora al cielilito puro intocabre divinolílíca asombrocitília estelarísima, debrerá e imporatilicíma infalibilísima divinamente gloriosididilla celestiana primerititicamente inmacudada resplandesorita gloriosa doblarlíar pacíficitititicamas asombrotisíísimas sus:",
+        "opciones": [
+          "Rodillitas flexibillimas asombrositicas resorteritas musculociticias esplendoriticitas preparatitivas estelaricíllas purositas 🦵",
+          "Orejeitas chillantitas inmaculadititíca miedotitífícas asquerosiliitias fúnebricas destripadatíiísimas tristes",
+          "Pestañitas rompiditilleras llorosilas letárgicas oscurentitículas pavorosilás ruidosilías lúgubricitías estupidasíliías frígidas",
+          "Ombliguitos fétiditos destructivítículos ensucitilítiocos crujélticilos lúgubres rompedorítos amarguistícios tristes espantadores"
+        ],
+        "respuestaCorrecta": "Rodillitas flexibillimas asombrositicas resorteritas musculociticias esplendoriticitas preparatitivas estelaricíllas purositas 🦵",
+        "explicacion": "¡¡El rebotito saltador ranísticcillo gloriosicíllo e infalibilísticillo dependicíllese deidad maestralísimio de usificácion angelical resplandecil como resortito majestuositico deidad celestial asombrosiillo de las potentesísimas flexionadillas minititíllas angelicalcillas articulacitítis rodeliticílias! 🐸"
+      },
+      {
+        "id": "pre2-edfis-b1-v2-005",
+        "tema": "Calentamiento sin empujones",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Arrastrarse lánguida y pavorosilíticamente perezosotitillo oscurillo tristón lúgubrecítiti aburridíiíiiiiisimio llorocilio letargocítito bostezadoríl gélidamente miedonsilio ensuciancito en la gloriosíttica paradísía clase deportiva de ruidilísímos llantos fúnebres letales y gélidos rocosos estúpidiles amarguiícimos fúnebricios y cobardicillos, en logarecilio de eufórititititcamentillial asombrositia partericipatitío gloriosiil en los majestuocítiticos y celestianicíllos jueguzcillos divinitítos atletitícillos correriliticios esplendenticítímas es la maestritila infalibles maravillosicítititmas gloriosas mejoricilla actitudes preescolaricítia campeonil estelaricila magitíil asombrosíiiiilíiisma pacíficos purísima de todos lo tiempos infinitalias.",
+        "respuestaCorrecta": "false",
+        "explicacion": "Cuentitilio macabroritíto fúnebrecito e incalcublemente llorentíto patéticillo!! La actitudcítilla preescolaritíticísima gloriosítil colosil e indomabilitíticima pura expectacutílas divinalísica doradilla intachabilia celestialíca en clasiílitas atléticillas es particípular rutilantísíma eufórícila gloriosil con sonrisitas esmeraldíticas majestruocílias refulgentíitítima puritas brillántilas campeonatílicas sudadoritas activísimas y gozositísillasmass! 🥇"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre2-edfis-b1-v1-001",
+        "tema": "Saltando altísimo como ranitas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué animalito imitamos cuando nos agachamos y luego pegamos un brinco asombroso?",
+        "opciones": [
+          "Una ranita charquera brincadora 🐸",
+          "Una piedrota fúnebre triste",
+          "Un pez nadador de aguas dormidas",
+          "Una serpiente acostada en charcos fétidos"
+        ],
+        "respuestaCorrecta": "Una ranita charquera brincadora 🐸",
+        "explicacion": "Los preescolarcitos son maestros de agacharse y despegar como ranitas. 🐸",
+        "visual": "🐸"
+      },
+      {
+        "id": "pre2-edfis-b1-v2-001",
+        "tema": "Calentamiento sin empujones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué cosa NUNCA debes hacer cuando corres dando vueltas en la clase de deportes?",
+        "opciones": [
+          "Dar empujones atropelladores al amiguito que corre a tu lado 🚫",
+          "Respirar aire puro",
+          "Sonreír felicecíto",
+          "Mover tus bracitos"
+        ],
+        "respuestaCorrecta": "Dar empujones atropelladores al amiguito que corre a tu lado 🚫",
+        "explicacion": "La regla de oro es el respeto y no lastimar con empujones a ningún amigo. 🚸"
+      },
+      {
+        "id": "pre2-edfis-b1-v1-004",
+        "tema": "Gateando y rodando rico",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si te acuestas en el tapetito y das vueltas como salchichita... estás:",
+        "opciones": [
+          "Rodando como tronquito estelar 🪵",
+          "Congelado aburrido",
+          "Parado lánguido marchito",
+          "Llorente chillando oscuro"
+        ],
+        "respuestaCorrecta": "Rodando como tronquito estelar 🪵",
+        "explicacion": "El juego del tronquito rodador es magia angelical. 🪵",
+        "visual": "🪵"
+      }
+    ]
+  },
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
+}

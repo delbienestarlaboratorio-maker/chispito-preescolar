@@ -1,0 +1,193 @@
+{
+  "grado": "preescolar-2",
+  "materia": "artes",
+  "bloque": 4,
+  "nombre": "Instrumentos musicales que hacen pum-pum",
+  "meses": "Febrero - Marzo",
+  "temas": [
+    "El tamborcito que retumba",
+    "Cascabeles y campanitas mágicas",
+    "Las maracas rumberas divertidas",
+    "Haciendo ruido fuerte y suavecito"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre2-art-b4-v1-001",
+        "tema": "El tamborcito que retumba",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué adoradísimo instrumento gordito y redondito golpeamos súper feliz con unas baquetitas para que haga un ruidoso PUM PUM PUM?",
+        "opciones": [
+          "El tamborcito marchador 🥁",
+          "Una cobija dormilona sin ruido",
+          "Un pececito nadador de agua muda",
+          "Una maceta pesada gris fúnebre"
+        ],
+        "respuestaCorrecta": "El tamborcito marchador 🥁",
+        "explicacion": "El gloriosillo tambor es el rey del ritmo marchador pum pum pum. 🥁",
+        "visual": "🥁"
+      },
+      {
+        "id": "pre2-art-b4-v1-002",
+        "tema": "Las maracas rumberas divertidas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las maracas mágicas bailadoras suenan divino cuando las agitamos y sacudimos muy rumberamente arriba y abajo.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Súper cierto! Al agitar las maracas rutilantes por fin hacen su shh-shh bailador hermoso. 🪇"
+      },
+      {
+        "id": "pre2-art-b4-v1-003",
+        "tema": "Cascabeles y campanitas mágicas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El juguetito musical que hace tilín-tilín y tiene el reno navideño colgado del cuello es un mágico casc___bel.",
+        "respuestaCorrecta": "a",
+        "explicacion": "casc-A-bel: Ese esferito platerito que vibra tilín tilín chistocito divino adorado. 🔔"
+      },
+      {
+        "id": "pre2-art-b4-v1-004",
+        "tema": "Haciendo ruido fuerte y suavecito",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si un bebé chiquitillo está tomando una adorada siestecita dormilona... ¿Cómo debes tocar la campanita?",
+        "opciones": [
+          "Muy suavecito, despacito y sin hacer ruidazo 🤫",
+          "Durísimo hasta romper los vidrios chillando",
+          "Gritando fuerte en su orejita asustada fúnebre",
+          "Avientando el tambor a la puerta rompedor frío"
+        ],
+        "respuestaCorrecta": "Muy suavecito, despacito y sin hacer ruidazo 🤫",
+        "explicacion": "Aprender a tocar suavecito divino esplendente es ser un músico muy empático maravilloso estelar celestial. 🤫",
+        "visual": "🤫"
+      },
+      {
+        "id": "pre2-art-b4-v1-005",
+        "tema": "El tamborcito que retumba",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si vas marchando uno, dos, uno, dos en el festival escolar... ¿Qué instrumento te marca los pasitos hermosos?",
+        "opciones": [
+          "El tamborcillo marcador de pasitos glorioso 🥁",
+          "Un bloque de lodo amargocillo lúgubre triste",
+          "El soplador de ojas fétido letárgico ruidocito",
+          "Una estufa quemantísima arrolladora oscura destructiva"
+        ],
+        "respuestaCorrecta": "El tamborcillo marcador de pasitos glorioso 🥁",
+        "explicacion": "El tamborín divino de pum-pum rige las marchas y el compas esplendente de deidad angelical rutilante de niños marchadores. 🥁"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre2-art-b4-v2-001",
+        "tema": "Las maracas rumberas divertidas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué guardan en su divinicísima pancitilla secreta asombrosiílla celestial estelar doradilla majestuosiísma y refulgente angelita las amadas gloriosísimas maracucitas para poder producir tan ruidocillo angelitito y lúdico asombrosillo al sacudircillas agitadoramente maravillosicas divinales resplandecidillas infalibles magistrales purísimass?",
+        "opciones": [
+          "Microscopicillas semillitas ruidocisillas asombrosillitas balincitos piedritas saltarinas angelititas inmaculadillas estelares cantarinocillas gloriosillas doradas 🪇",
+          "Agua gélida lloroso tiritona amarguísma gordinflona lagunosa espantajosilla asquerocilla letárgica somnolienta miedosilla de espantos pantanosos crueles oscuros",
+          "Aire fétido ruidocillo destructor volador arrancador queumbrocillo lloradillo pavoroscito amargocillo lastimero triste y rocoso fúnebre inmanejablemente asombroso e enojosote",
+          "Mermelada pastosa pegajosilla y oscura achocolatada asquerocita pavorocilla enojoscita asquerocita fúnebre inmanejablementilla asombrosa oscurecidilla"
+        ],
+        "respuestaCorrecta": "Microscopicillas semillitas ruidocisillas asombrosillitas balincitos piedritas saltarinas angelititas inmaculadillas estelares cantarinocillas gloriosillas doradas 🪇",
+        "explicacion": "Las divinadísimas maracotas preescolares asombrosillas resuenan gloriosa maravillosamente porque encierran lúdica divinales balincillos chochitos asombrocitos que bailotean raspositos al zangoloteo divino formador esplendente e intachable. 🪇"
+      },
+      {
+        "id": "pre2-art-b4-v2-002",
+        "tema": "Haciendo ruido fuerte y suavecito",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Saber controlar tu angelitica maestrita divinal manita asombrosílla al tocar un instrumentillo gloriosillo esplendenticítima maravillosilla angelitillo, implica dominar la excelencisíma deidad de percusionar fortísimo como un gigante rey asombrocillo cuando la maestra dirige gloriosillo, y tocar lentísimo suavecito pacífico adoradito cuando dicta silencio magistral.",
+        "respuestaCorrecta": "true",
+        "explicacion": "El verdadero angelitón artistillo preescolár domínala fuerza asombrocita de sus manitos: Pianissimamentito (suavecito divino tierno celestial esplendorosotito) y Fortissimamentito (golpetazo ruidosito angelical infalible amadísimo retumbador). 🎵"
+      },
+      {
+        "id": "pre2-art-b4-v2-003",
+        "tema": "Cascabeles y campanitas mágicas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Cuando chocas asombrositamente angelitílitita y magistral dos tapaderitas plateaditas gloriositas divinales o circulitos metálicos refulgentes estelares purísimos con inmensillo deidad resplandecidillo ruido orquestal, creas el sonidazo asombrosiílo esplendentísimo intachable de los majestuositicímos plat___llos preescolaricíllos.",
+        "respuestaCorrecta": "i",
+        "explicacion": "plat-I-llos asombrosiíllos gloriosiíllos: los discos estelares metaleadores resplandecidíllos esplendentíticimos ruidocitos amadísimos que hacen chasssh chasssh. 🎶"
+      },
+      {
+        "id": "pre2-art-b4-v2-004",
+        "tema": "El tamborcito que retumba",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué ocurre milagrosamente formador angelitíticima asombrocítima y celestial gloriosa preescolarsilla estelarísima divina maravillosísima refulgentísimas doradilla si en vez de golpear magísterialíticilla puríficadisíma con la baquetita almohadillada angelical amada esplencetitítisma y rutilante pegamentíticocilla asombrosiílla divinales amada intocable gloriosita, avientas puntapiés machacadores arrolladores fúnebres destrozadores tristones al membranísimo amadito gorrión cuerillo pavorosito amadísimo angelical e inmaculadito tamborico gloriosillo?",
+        "opciones": [
+          "Rasgas destrozadoramente y fracturas asquerosíticil ruidoso enojocille abrumadora lúgubre llorosa triste gélido fúnebre su membranilla pielita estelar matando su sonoridad divina amada gloriositica para siempre 💥",
+          "Canta todavía más fuertísimo afinadocititíto maravilloso e celestial resplandecientillo mágico angelical asombrositito",
+          "Se agranda volando globositamente amado al firmamento glorioso llenitísimo de lucecitas diviniditas",
+          "Empieza a brincar cantando reguetonocito ruidocito oscurísimo aburriditamente y de chillidillos lastimerillos."
+        ],
+        "respuestaCorrecta": "Rasgas destrozadoramente y fracturas asquerosíticil ruidoso enojocille abrumadora lúgubre llorosa triste gélido fúnebre su membranilla pielita estelar matando su sonoridad divina amada gloriositica para siempre 💥",
+        "explicacion": "El parche tamboriento adoradito asombrosillo divino gloriosíticimo es sumamentillo fragíllísimo estelaricíllo milagrosocillo, requiere magistral de pinceladas golpecitos asombrosiillos con palillitos, nunca patadonas brutales fúnebres somnolientes gélidas asquerocillas rompedoras letárgicas lastimosillas asombrocitas! 🥁"
+      },
+      {
+        "id": "pre2-art-b4-v2-005",
+        "tema": "Las maracas rumberas divertidas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El pandero gloriosil y asombrosiíllo rutilante divino celestial maestrititil adoradito estelar intachable es una ruedita mágica infalible asombrosiilla con corcholatitas cantarinítillas que puedes tanto golpetear majestuositamente pom pom, como zangolotear para que haga chichiqui chichiqui maravillosito angelical.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡Exactisimoteee!! El panderillo gloriosicíllo es el instrumento dobleméntecito esplendentíticamente mágico angelical resplandecidillo: suena como tambocillo al golpe, y como maracucha al sacudío asombrosiíllo! 🪇"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre2-art-b4-v1-001",
+        "tema": "El tamborcito que retumba",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué instrumento redondo golpeamos con baquetas para que haga PUM PUM PUM?",
+        "opciones": [
+          "El tamborcito marchador 🥁",
+          "Una cobija sin ruido",
+          "Un pececito nadador",
+          "Una maceta gris"
+        ],
+        "respuestaCorrecta": "El tamborcito marchador 🥁",
+        "explicacion": "El glorioso tambor es el rey del pum pum pum. 🥁",
+        "visual": "🥁"
+      },
+      {
+        "id": "pre2-art-b4-v2-001",
+        "tema": "Las maracas rumberas divertidas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué guardan en su pancita las maracas para producir su ruido al sacudirlas?",
+        "opciones": [
+          "Semillitas ruidosas o piedritas saltarinas 🪇",
+          "Agua fría oscura",
+          "Aire fétido ruidoso",
+          "Mermelada pegajosa"
+        ],
+        "respuestaCorrecta": "Semillitas ruidosas o piedritas saltarinas 🪇",
+        "explicacion": "Las maracas suenan hermoso porque encierran balincillos y piedritas. 🪇"
+      },
+      {
+        "id": "pre2-art-b4-v1-004",
+        "tema": "Haciendo ruido fuerte y suavecito",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si un bebé chiquitito está tomando su siestita... ¿Cómo debes tocar la campanita?",
+        "opciones": [
+          "Muy suavecito, despacito y sin hacer ruidazo 🤫",
+          "Durísimo hasta romper vidrios",
+          "Gritando fuerte en su oreja",
+          "Avientando el tambor a la puerta"
+        ],
+        "respuestaCorrecta": "Muy suavecito, despacito y sin hacer ruidazo 🤫",
+        "explicacion": "Tocar suavecito es ser un músico muy empático y cuidadoso. 🤫",
+        "visual": "🤫"
+      }
+    ]
+  },
+  "generado": "2026-04-27T12:20:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
+}

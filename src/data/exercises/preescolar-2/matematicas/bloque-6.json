@@ -1,0 +1,170 @@
+{
+  "grado": "preescolar-2",
+  "materia": "matematicas",
+  "bloque": 6,
+  "nombre": "Acertijos y juegos finales",
+  "meses": "Junio",
+  "temas": [
+    "Adivinanzas de números",
+    "Rutas y laberintos numéricos",
+    "Juntando todos los conocimientos"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre2-mat-b6-v1-001",
+        "tema": "Adivinanzas de números",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¡Adivina! Soy un número gordito en el centro, parezco un muñeco de nieve de dos bolones apilados. ¿Quién soy?",
+        "opciones": [
+          "El número 8 🎱",
+          "El número 1 🥇",
+          "El número 4 🍀",
+          "El número 10 🔟"
+        ],
+        "respuestaCorrecta": "El número 8 🎱",
+        "explicacion": "¡El ocho! Se traza con dos maravillosas ruedas redonditas. 🎱",
+        "visual": "🎱"
+      },
+      {
+        "id": "pre2-mat-b6-v1-002",
+        "tema": "Adivinanzas de números",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El número 1 parece un palito largo que apunta al cielo o a una pequeña antena de radio.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Tal cual! El rey número singular 1 se sostiene flaco y alargado cual lanza milenaria. 🥇"
+      },
+      {
+        "id": "pre2-mat-b6-v1-003",
+        "tema": "Rutas y laberintos numéricos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Para salir de un laberinto gigante de brincos jugando 'el avión', debes pisar el número 5 y después dar el majestuoso brinco al grandioso...",
+        "opciones": [
+          "¡Al número 6!",
+          "¡Al número 20!",
+          "¡Caerse a la zanja del lado!",
+          "Tristemente no saltar más"
+        ],
+        "respuestaCorrecta": "¡Al número 6!",
+        "explicacion": "¡Tras tu paso del cinco, la secuencia lógica natural será el poderoso 6 para avanzar en el avioncito! ✈️",
+        "visual": "✈️"
+      },
+      {
+        "id": "pre2-mat-b6-v1-004",
+        "tema": "Rutas y laberintos numéricos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Recorrer un tablero tirando unos grandes dados de colores, requiere contar uno por uno puntito por puntito la cara brillante de ese dado.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Para tener la veracidad, sumas puntitos cara superior y brincar esa cantidad en escaños del recorrido de mesa en plena tarde familiar! 🎲"
+      },
+      {
+        "id": "pre2-mat-b6-v1-005",
+        "tema": "Juntando todos los conocimientos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "A lo largo de todo tu glorioso año en Preescolar aprendiste a contar mucho más. ¡Lograste llegar contando invictamente hasta el súper número veinte (___)!",
+        "respuestaCorrecta": "20",
+        "explicacion": "¡Llegamos a la cumbre más inmensamente asombrosa que podías trazar superando tus antiguas capacidades cognitivas, el grandioso número 20! 🏆"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre2-mat-b6-v2-001",
+        "tema": "Juntando todos los conocimientos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál de todos estelares artefactos es el que representa más majestuosidad geométrica porque rodar es su eterno don redondo?  ",
+        "opciones": [
+          "Una esfera redonda grandiosa brillante con esmalte azul marino estelar",
+          "Un bloque cubo inamovible aburrido y de picos espinosos",
+          "Una placa plana totalmente plana en las banquetas del parque de patinaje",
+          "Todas las superficies de picos incontables"
+        ],
+        "respuestaCorrecta": "Una esfera redonda grandiosa brillante con esmalte azul marino estelar",
+        "explicacion": "¡Una radiante esfera deslizando su tersa periferia rodante es la reyna total de girar geométricamente sin frenar! 🌎"
+      },
+      {
+        "id": "pre2-mat-b6-v2-002",
+        "tema": "Adivinanzas de números",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Todos al unísono concordamos que decir 'doce' significa formalísimamente sumar algo que agrupa el 'diez' con un lindo acompañante par 'dos'.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡En total resunción de hechos comprobados, el doce se orquesta sumando 10 unidades iniciales de base y adheriendo unas bellísimas e ínfimas 2 extra! 🦢"
+      },
+      {
+        "id": "pre2-mat-b6-v2-003",
+        "tema": "Rutas y laberintos numéricos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para trazar el camino saltando como rana, voy 2, 4, 6... ¿Quién faltaría pisando si siguiese sumando pares invencible___? (Un 8 saltarián)  ",
+        "respuestaCorrecta": "mente",
+        "explicacion": "¡Esa secuencia brinca pares! Tras el seis, la vigorosa meta lógica sin parar jamás invenciblemente recae ante un prodigioso y rítmico 'ocho'. 🐸"
+      },
+      {
+        "id": "pre2-mat-b6-v2-004",
+        "tema": "Juntando todos los conocimientos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¡Tu memoria es magistral e insuperable! Si agrupas 10 deditos de tus tiernas patas de cachorro suave en este preciso ocaso, has reunido tu famosísima...  ",
+        "opciones": [
+          "Luminosa DECENA relancina y desbordante de fulgor",
+          "Catorcena triste olvidada en recovecos lúgubres del olvido amargo",
+          "Novena vacía faltaba una esférica inalcanzable cima",
+          "Nada"
+        ],
+        "respuestaCorrecta": "Luminosa DECENA relancina y desbordante de fulgor",
+        "explicacion": "¡Juntar esos adorados y formidables diez elementales forjará un monolito contable sagrado designado majestuosamente ante los eruditos como la Decena! 💎"
+      },
+      {
+        "id": "pre2-mat-b6-v2-005",
+        "tema": "Adivinanzas de números",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El misterioso y mágico número CERO dictamina la absoluta ausencia inabarcable en el universo entero pero se dibuja tiernísimamente delineando una órbita circular plana como un óvalo en descanso sin fin.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Incisivo y abrumadoramente acertado! Su grafía ovoidal carece de ángulos emulando dulcísimamente una total calma e incalculable vacío galáctico sereno. 🌌"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre2-mat-b6-v1-001",
+        "tema": "Adivinanzas de números",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Adivina: Soy gordito en el centro, parezco un muñeco de nieve.",
+        "opciones": [
+          "El número 8 🎱",
+          "El número 1 🥇",
+          "El número 4 🍀",
+          "El número 10 🔟"
+        ],
+        "respuestaCorrecta": "El número 8 🎱",
+        "explicacion": "¡El ocho! Se traza con dos ruedas redonditas. 🎱",
+        "visual": "🎱"
+      },
+      {
+        "id": "pre2-mat-b6-v2-001",
+        "tema": "Juntando todos los conocimientos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué figura es la reyna de girar porque rodar es su eterno don redondo?",
+        "opciones": [
+          "Una esfera redonda",
+          "Un bloque cubo inamovible",
+          "Una placa plana",
+          "Todas las cosas con picos"
+        ],
+        "respuestaCorrecta": "Una esfera redonda",
+        "explicacion": "¡Su periferia desliza majestuosamente sin frenar jamás! 🌎"
+      }
+    ]
+  },
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
+}

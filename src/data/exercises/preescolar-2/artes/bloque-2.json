@@ -1,0 +1,187 @@
+{
+  "grado": "preescolar-2",
+  "materia": "artes",
+  "bloque": 2,
+  "nombre": "Nuestro cuerpo bailarín y musical",
+  "meses": "Octubre - Noviembre",
+  "temas": [
+    "Zapateando muy fuerte y suavecito",
+    "Brazos que vuelan como aves (Danza)",
+    "Cantando como pajaritos",
+    "Moviendo la pancita al compás"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre2-art-b2-v1-001",
+        "tema": "Zapateando muy fuerte y suavecito",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Cuando quieres bailar con mucha fuerza como un oso grandote, ¿qué hacen tus zapatitos en el suelo?",
+        "opciones": [
+          "Hacen Pum Pum muy fuerte zapateando 🐻",
+          "Flotan en silencio sin tocar el piso",
+          "Lloran tristes sin moverse",
+          "Se quedan congelados aburridos mudos"
+        ],
+        "respuestaCorrecta": "Hacen Pum Pum muy fuerte zapateando 🐻",
+        "explicacion": "Los pisotones de un osito fuerte hacen vibrar el tambor del pisito de bailes. 🎵",
+        "visual": "🥁"
+      },
+      {
+        "id": "pre2-art-b2-v1-002",
+        "tema": "Brazos que vuelan como aves (Danza)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En la danza mágica de tu escuela, puedes mover tus bracitos arriba y abajo creyendo que eres una preciosa mariposita azul.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Súper cierto! Mover el curpecito como animalitos aladitos es divino y bailarín. 🦋"
+      },
+      {
+        "id": "pre2-art-b2-v1-003",
+        "tema": "Cantando como pajaritos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "En la clase de músiquita mágica preescolar, soltamos nuestra v___cecita para cantar canciones de sol y estrellitas.",
+        "respuestaCorrecta": "o",
+        "explicacion": "v-O-cecita: La cuerdita divina de nuestro cuellito que canta la-las preciosos. 🎤"
+      },
+      {
+        "id": "pre2-art-b2-v1-004",
+        "tema": "Moviendo la pancita al compás",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si escuchas una cancioncita muy, pero muy rápida de saltos ruidosos... ¿qué hace tu cuerpecito divertido?",
+        "opciones": [
+          "Empieza a brincar rapidísimo y sudar bailarín 🏃‍♂️",
+          "Se echa a dormitar como tortuga lenta",
+          "Bosteza aburrido letárgico lloroso triste",
+          "Se apaga enojado y llora triste ruidosito amargo"
+        ],
+        "respuestaCorrecta": "Empieza a brincar rapidísimo y sudar bailarín 🏃‍♂️",
+        "explicacion": "La música rápida resplandeciente alegra el corazoncito estelar infantil y no puedes dejar de menearte. 💃",
+        "visual": "💃"
+      },
+      {
+        "id": "pre2-art-b2-v1-005",
+        "tema": "Zapateando muy fuerte y suavecito",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿A qué asombroso animalito imitamos si andamos de puntitas silenciositas y suavecito sin hacer ruidito mágico?",
+        "opciones": [
+          "A un ratoncito sigilosito o gatito ninja 🐱",
+          "A un elefante gordinflón y aullador",
+          "A un carro chocón trompetudo sonador",
+          "A un león rugiente tronador lúgubre machucante"
+        ],
+        "respuestaCorrecta": "A un ratoncito sigilosito o gatito ninja 🐱",
+        "explicacion": "Caminar de puntillas suaves en la danza es usar patitas de algodón gatitas. 🐈",
+        "visual": "🐈"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre2-art-b2-v2-001",
+        "tema": "Brazos que vuelan como aves (Danza)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Bailar asombrosamente angelitos no requiere juguetes costosos divinales ni majestuosas maquinitas miedosillas ruidosas... ¿Cuál es el único instrumento divino majestuosito que utilizas para el gran dancístico baile del cangrejito loco resplandeciente?",
+        "opciones": [
+          "Tú mismito adoradísimo cuerpecito, pancita preciosa y manitas movedoras estelares! 🦀",
+          "Un aburridillo sillón miedosito gris ruidosito temblando",
+          "Una piedrota lúgubre llorocilla triste y enojadilla amargada fría y fúnebre destrozada oscura",
+          "Una estufa quemantísima arrolladora destructiva cruel oscurecida fétida e infalible lánguida"
+        ],
+        "respuestaCorrecta": "Tú mismito adoradísimo cuerpecito, pancita preciosa y manitas movedoras estelares! 🦀",
+        "explicacion": "Nuestro esplendoroso físico saltarín es la mayor herramienta mágica lúdica de los bailarines preescolares natos insuperables estelares gloriositos! 🩰"
+      },
+      {
+        "id": "pre2-art-b2-v2-002",
+        "tema": "Cantando como pajaritos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Si un amiguito angelical glorioso divinillo quiere cantar asombrosillo eufórico una tiernita melodía preescolarcita, lo debemos callar a gritoneos lúgubres rompedores tristes amargos aterrantes lloroncillos oscuros.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Tremendamente falso amarguito destrozado! Todo leoncillo deidad canta hermosecíllamente preescolar, y hay que aplaudir su divina asombroza cancioncita sin callar sus estelares trinos vocales. 👏"
+      },
+      {
+        "id": "pre2-art-b2-v2-003",
+        "tema": "Zapateando muy fuerte y suavecito",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Cuando bailas al ritmo del tap-tap maravilloso preescolar adoradísimo chocando los zapatos con el suelo lúdico ruidoso, haces perc__sión mágica infantil divina.",
+        "respuestaCorrecta": "u",
+        "explicacion": "percU-sión: Tus angelicales suelas golpeando alegritas forman tamborcitos musicales esplendentes en las gloriositas asombrosas maderitas bailarínas. 👢"
+      },
+      {
+        "id": "pre2-art-b2-v2-004",
+        "tema": "Moviendo la pancita al compás",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué debemos hacer majestuositamente infatigable gloriosos diviníllos si de pronto gloriosamente la bella musicál resplandecida musiquita estelar del salón se detiene de golpe fúnebre mudosito?",
+        "opciones": [
+          "Convertirnos en estatuas congeladitas angelicalísimas maravillosamente muditas divinitas de hielo quietesitas 🧊",
+          "Empezar a llorar berreando chistosos lúgubres asustadizos trágicos miedocillos oscuros tristones",
+          "Pegarle lastimeramente a un compañerito amargamente cruel aterrante y destructivíllo llorensillo lloroso patadonoso",
+          "Avientar cosas aburridísimas suciocitas letárgicas gélidas enojadas y oscurezcos lamentos ruidocillos"
+        ],
+        "respuestaCorrecta": "Convertirnos en estatuas congeladitas angelicalísimas maravillosamente muditas divinitas de hielo quietesitas 🧊",
+        "explicacion": "El jueguillo celestial de las estatuillas gloriosas enseña al preescolar maravilloso a dominar el esplendor corporal angelical de quietud y fúnebre asombrosa concentración estelar. 🗽"
+      },
+      {
+        "id": "pre2-art-b2-v2-005",
+        "tema": "Brazos que vuelan como aves (Danza)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Mover tus divinísimamente gorditos hombritos y cuellito precioso hacia los laditos angelicales mientras tarareas lalalá enseña a soltar tu magistral cuerpo.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡La gimnasia musical asombrocilla de estirar extremidades adoradísimas es grandilocuentemente estelar e infalible para no ser tablitas tiesitas! 🤸"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre2-art-b2-v1-001",
+        "tema": "Zapateando muy fuerte y suavecito",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Cuando quieres bailar con fuerza como un oso grandote, ¿qué hacen tus zapatitos?",
+        "opciones": [
+          "Hacen Pum Pum muy fuerte zapateando 🐻",
+          "Flotan en silencio",
+          "Lloran sin moverse",
+          "Se quedan mudos"
+        ],
+        "respuestaCorrecta": "Hacen Pum Pum muy fuerte zapateando 🐻",
+        "explicacion": "Los pisotones de un osito hacen vibrar el piso. 🎵",
+        "visual": "🥁"
+      },
+      {
+        "id": "pre2-art-b2-v2-004",
+        "tema": "Moviendo la pancita al compás",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué debemos hacer si de pronto la musiquita del salón se detiene de golpe en el juego?",
+        "opciones": [
+          "Convertirnos en estatuas congeladitas y quietitas 🧊",
+          "Empezar a llorar berreando",
+          "Pegarle a un compañerito",
+          "Avientar cosas enojados"
+        ],
+        "respuestaCorrecta": "Convertirnos en estatuas congeladitas y quietitas 🧊",
+        "explicacion": "El jueguillo de las estatuillas enseña a congelar tu cuerpecito. 🗽"
+      },
+      {
+        "id": "pre2-art-b2-v1-002",
+        "tema": "Brazos que vuelan como aves (Danza)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Puedes mover tus bracitos creyendo que eres una preciosa mariposita azúl en la danza.",
+        "respuestaCorrecta": "true",
+        "explicacion": "Mover el cuerpecito como animalitos aladitos es divino y bailarín. 🦋"
+      }
+    ]
+  },
+  "generado": "2026-04-27T12:16:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
+}

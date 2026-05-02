@@ -1,0 +1,192 @@
+{
+  "grado": "preescolar-2",
+  "materia": "artes",
+  "bloque": 5,
+  "nombre": "Teatro, disfraces y creatividad",
+  "meses": "Abril - Mayo",
+  "temas": [
+    "Me disfrazo de animalito",
+    "Poniendo caras (feliz y triste)",
+    "Contando cuentos con títeres",
+    "Jugando a ser grandes"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre2-art-b5-v1-001",
+        "tema": "Me disfrazo de animalito",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si te pones unas orejotas peluditas rosas, un moñito y arrugas la naricita haciendo oink-oink ruidosito... te estás disfrazando bellísimo de:",
+        "opciones": [
+          "Un cochinito o cerdito gordito juguetón 🐷",
+          "Un aburridillo sillón mudo y fétido gris",
+          "Una piedrota fúnebre amargadísima y asquerocilla",
+          "Un poste de luz oscuro lúgubre lloroncillo amarillito"
+        ],
+        "respuestaCorrecta": "Un cochinito o cerdito gordito juguetón 🐷",
+        "explicacion": "La fantasía y magia celestial prescolar te permite ser un chanchito rosa amado ruidosito juguetón hermoso. 🐷",
+        "visual": "🐷"
+      },
+      {
+        "id": "pre2-art-b5-v1-002",
+        "tema": "Poniendo caras (feliz y triste)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En el teatro angelical, puedes actuar que estás muuuy tristecito, haciendo un puchero adorable y llorocillo falso para interpretar tu papel dramatíco esplendente.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡Aprender teatro es poner todas las carucitas divinísimas!! Feliz, tristona, enojadillo, sorprendidito celestial. 🎭"
+      },
+      {
+        "id": "pre2-art-b5-v1-003",
+        "tema": "Contando cuentos con títeres",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Ese muñequito de peluchito padrísimo que te pones como un guantecito en tu manita para hablar chistosito se llama Tí___re.",
+        "respuestaCorrecta": "te",
+        "explicacion": "Tí-TE-re maravilloso. Los muppetitos adoraditos preescolarsitos que tragan deditos para cantar divinal. 🧤"
+      },
+      {
+        "id": "pre2-art-b5-v1-004",
+        "tema": "Jugando a ser grandes",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿A qué asombrosita profesión estás jugando teatríscamente adorable si te pones un maletincito, un gorrito blanco con crucecita roja y curas las pancitas de los amiguitos?",
+        "opciones": [
+          "A ser un Doctorcito o Enfermerita heroica curadora 👩‍⚕️",
+          "A ser un bloque cuadrado fétido que machuca gélido pavorosito",
+          "A ser una nube destructiva llorora oscura asombrosita enojocilla triste",
+          "A ser estufa ardiente ruidocilla lúgubre machacona lloridora asquerosilla abismal rompedora"
+        ],
+        "respuestaCorrecta": "A ser un Doctorcito o Enfermerita heroica curadora 👩‍⚕️",
+        "explicacion": "El gloriosillo rutilante juego de roles es la divinizada técnica escenifica de imitar maravillosamente profesiones estelares. 🩺",
+        "visual": "🩺"
+      },
+      {
+        "id": "pre2-art-b5-v1-005",
+        "tema": "Me disfrazo de animalito",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si le pedimos a mami que nos pinte la naricita negra y unos bigotitos divinales en los cachetitos preescolares para gruñir rrrrrrr y hacer miau...",
+        "opciones": [
+          "Eres un gatito chiquitito hermoso maullador 🐈",
+          "Eres un rinoceronte aplastador pavoroso de cuerno espantoso suciocillo",
+          "Un camión de basura fétido ruidocillo enojador lloroncito triste gélido fúnebre destructivo oscuro amargoso",
+          "Un pez congelado tieso silenciecillo mudo amargo frío asombrocito aburrido trágico oscuro"
+        ],
+        "respuestaCorrecta": "Eres un gatito chiquitito hermoso maullador 🐈",
+        "explicacion": "El maquillaje de carita estelar gatuna es la magia maravillosil preescolarcilla teatral de animalidad rutilante y divina pureza. 🐱"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre2-art-b5-v2-001",
+        "tema": "Contando cuentos con títeres",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué requierítisímas utililizaríisimamente estelar y gloriosa asombrosiílla refulgentitíma divinal suprema y angelitical para dotar de viva rutilante voz conversadora celestial a un gloriosillo muñequito marionetero titerico peludillo inanimadito de asombrosiilla gloríla tela y algodoncillo abrumador divinosito?",
+        "opciones": [
+          "Ocultarte tras el teloncillo del teatrito amadito e inyectar inmaculadíticamente tu prodigiosa y cantarina mágica e angelical preescolaritíma deidad vocecita actoral infantil divina y eufórica 🎭",
+          "Sumergírlo aplastadoramente fétido y arrollador en agua frígida pavorosilla pantanosa fúnebre oscura tétrica lúgubre llorocilla amargosilla tristona letárgica",
+          "Dejarlo tiratidito arrinconadito aplastadito llorosito amargocito chillocito perezosito solitariocito en el baulillo cruel asquerocillo apestosillo del olvido oscuro destructivo y amarguísimo rompedor gélido triste e inmarcesibulísimo llorente ruidosos.",
+          "Romperlo espantajosicíllo machucadoramente cruelídimamente fúnebre lloron lánguido enmil pedazititios desgarradoros abismales letárgicos destrozadores rocosillos fúnebres de hielos pavorosillos inmanejables aterradores y asombrositas tristezas fúnebres."
+        ],
+        "respuestaCorrecta": "Ocultarte tras el teloncillo del teatrito amadito e inyectar inmaculadíticamente tu prodigiosa y cantarina mágica e angelical preescolaritíma deidad vocecita actoral infantil divina y eufórica 🎭",
+        "explicacion": "El arte majestuosíllo titerísticilo radíca infatigablemente asombrosiíllo en prestar tu angelical intachable resplandecidíllo maravillosíl deidad tonillito vocal para dar ilusión divína charladora amorocita al guantícíllo preescolar. 🧤"
+      },
+      {
+        "id": "pre2-art-b5-v2-002",
+        "tema": "Poniendo caras (feliz y triste)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Durante una majestuosísima y maravillosisílla estelar resplandecidilla actuación escénicilla patoralista angelical divinamente teatral, es incorrectísimo e impermisible inmarcesible falso asquerosillo fúnebre mostrar enfado actorálico fingidito actoral arrugandíto la frentesita chistosita adoradilla; todos y absolutitamente gloriositos debin inmaculadamente acturillal siempre sonrientísísimamente forzadítos toda la obrita preecolarsilla.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Falsooooo machucón! El escénico teatro amado esplendensorillo gloriosillo es la magitífica oportunidádita e infalible asombrosiíla paradisía para explorativícimamente transitar inmaculadillla por encieladas facialiditadas trágicás, bravíllas, temerosillas o jocosísimamente fiesteras, expresando angelitín toditilla la rutilante paleta de pasiones asombrocitas! 😠😫😆"
+      },
+      {
+        "id": "pre2-art-b5-v2-003",
+        "tema": "Jugando a ser grandes",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Si reunes ollas imaginarias divinales, la escobitilla asombrosiíla voladora, unos zapatitos de tacón mimosillo de mamá, o un saquito grandotón y facha de papá; forjas magistral esplandoríticamente un hermosicísimo y teatral j___ego de rölisillos dramatícos inmaculadilllos resplandecidores gloriositícimos estelares de preescolarcillos majestuosones maravillosíllos infalibles.",
+        "respuestaCorrecta": "u",
+        "explicacion": "j-U-ego escenícil adoradito majestuosil de rol. Imitando las rutinas gigantes de los inmaculadillos deidades papás, cultivamos fantasíosamente el estelar rutilante asombrocito y majestuosil entendimiento inmarcesibulísimo social bondadocillo deidad amadito angelito incondicionalisícimo esplendendentíticimo puro. 👔"
+      },
+      {
+        "id": "pre2-art-b5-v2-004",
+        "tema": "Me disfrazo de animalito",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué aditamento asombrocíttisimamente indespensabilisímo teatral y festivo majestuocito maravillosil e incondicionalisítamente angelical cubre y resguarda transformadoramente preescolarisímas estelar resplandecedor las caritas adoradillas y rubicundas infalibles asombrosiillas para emuluar rutilantísimamente deidad divina a un inmenso y gloriosísimo leonzaso selvático sin pintura?",
+        "opciones": [
+          "Una hermosícima doradilla majestuositicíma estelaricíllo protectoricilla mascaritílla de felpa asombrosiílla felina esplendentítica 🦁",
+          "Una piedra oscurecida ruidocilla lúgubre machacadora fría gélida amargantísima triste roñosa y pavorosísima doloridilla inmanejable pavorosa letárgica llorosa quejumobrosilla fúnebre aterrante espantante.",
+          "Caja cuadradotota fétrica fúnebre rompedora lloroncillísima oscuridilla tétrica y ruidocisila gélidilla perezosisisima lollona amarguísima destrozadora crujientísima."
+        ],
+        "respuestaCorrecta": "Una hermosícima doradilla majestuositicíma estelaricíllo protectoricilla mascaritílla de felpa asombrosiílla felina esplendentítica 🦁",
+        "explicacion": "Mágica cartularilla, inmaculadacilla felpadilla, el uso caretiílico emashcarador te disfraza milagrosisimamentetita infalible glorioso angelical transfigurándote esplendentíticamente maravilloso en un rugientísimito y lúdico asombrosil animalicíllo mimosito teatral de teatro universal amadito gloriosito preecolar! 🎭"
+      },
+      {
+        "id": "pre2-art-b5-v2-005",
+        "tema": "Poniendo caras (feliz y triste)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Usar gloriositítitcamene y deidad pura tu inmaculaditísimo asombrosil cuerpo preecolar enteramente divino magistrál para expresarte (como brincar altísismamentetito divino estelar si tu papelito indica un conejín eufórico rutilante angelical intocable estelar, o arrastrarte sigilosillamente asombrocito si interpreturillas serpientita amada ruidocita siseantita maravillocita divinidillísima pulquitita) es la fundalmental e insuperabila maravillosamente actitusil destreza divinal deidad de la dramatizadora clase teatral artística amada doradilla preescolarcita estelar purificadora refulgentíticocita colosil.",
+        "respuestaCorrecta": "true",
+        "explicacion": "Cuerpificando estelarísimamentecitita magistril inmaculaditita las asombromociones esplendorocitítcas divinales, dotarilisas al grandiosicíllo e infalible publico amado preecolar de una grandilocuentemente vivísimamente realista e inmaculadíticamente gloriosítila y resplandeceditita actuación inquebrantabile intocabilísima asombrosílama pura majestuosímamente escenificada teatralitica. 🤸"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre2-art-b5-v1-001",
+        "tema": "Me disfrazo de animalito",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si le pones arrugas a tu naricita haciendo oink-oink ruidosito... te disfrazas de:",
+        "opciones": [
+          "Un cochinito o cerdito juguetón 🐷",
+          "Un sillón gris",
+          "Una piedra asquerocilla",
+          "Un poste de luz"
+        ],
+        "respuestaCorrecta": "Un cochinito o cerdito juguetón 🐷",
+        "explicacion": "La fantasía prescolar te permite ser un chanchito rosa hermoso. 🐷",
+        "visual": "🐷"
+      },
+      {
+        "id": "pre2-art-b5-v2-001",
+        "tema": "Contando cuentos con títeres",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué debes usar para darle vida y voz a un muñequito de tela en el teatrito?",
+        "opciones": [
+          "Ocultarte tras el telón y usar tu voz actoral infantil 🎭",
+          "Sumergírlo en agua fría oscura",
+          "Dejarlo arrinconado en el baúl del olvido",
+          "Romperlo espantajosicíllo"
+        ],
+        "respuestaCorrecta": "Ocultarte tras el telón y usar tu voz actoral infantil 🎭",
+        "explicacion": "El arte titerísticilo radíca en prestar tu vocecita actoral. 🧤"
+      },
+      {
+        "id": "pre2-art-b5-v1-004",
+        "tema": "Jugando a ser grandes",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿A qué juegas si te pones gorrito blanco con cruz roja y curas a los amiguitos?",
+        "opciones": [
+          "A ser un Doctorcito o Enfermerita curadora 👩‍⚕️",
+          "A ser un bloque cuadrado fétido",
+          "A ser una nube destructiva llorora",
+          "A ser estufa ardiente ruidocilla"
+        ],
+        "respuestaCorrecta": "A ser un Doctorcito o Enfermerita curadora 👩‍⚕️",
+        "explicacion": "Jugar a ser doctorcito cura corazoncitos. 🩺",
+        "visual": "🩺"
+      }
+    ]
+  },
+  "generado": "2026-04-27T12:30:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
+}
